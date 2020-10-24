@@ -1,5 +1,5 @@
 # Conference Proposals
-> A collection of proposals I have sent out
+> A collection of proposals I have sent out, inspired a similar project by [@mylesborin](https://github.com/mylesborins/conference-proposals).
 
 * [A Distributed Orchestra](a-distributed-orchestra.md)
 * [Adventures in Ethical Computing](adventures-in-ethical-computing.md)
